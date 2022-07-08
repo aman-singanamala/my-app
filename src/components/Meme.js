@@ -10,7 +10,6 @@ export default function Meme() {
         const url = memesArray[randomNumber].url
         console.log(url)
     }
-
     return (
         <main>
             <div className="form">
