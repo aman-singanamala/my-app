@@ -59,4 +59,9 @@ header {
     border-radius: 5px;
     color: white;
     height: 50px;
+    
+}
+.imm{
+    margin-top: 50px;
+    max-width: fit-content;
 }
