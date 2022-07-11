@@ -23,6 +23,8 @@ export default function Meme() {
                     type="text"
                     placeholder="Bottom text"
                 />
+
+                
                 <button className="form--button"
                     onClick={getMemeImage}
                 >Get a new image</button>
