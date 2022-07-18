@@ -10,10 +10,6 @@ body {
 main {
     padding: 36px;
 }
-
-
-
-
 header {
     display: flex;
     align-items: center;
@@ -62,7 +58,6 @@ header {
     border-radius: 5px;
     color: white;
     height: 50px;
-    
 }
 .imm{
     margin-top: 50px;
